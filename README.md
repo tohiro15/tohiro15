@@ -1,10 +1,5 @@
 <h3 align="center"> 📊 Stats Github: </h3>
 
-<div align="center">
-  
-![Overview of statistics](https://raw.githubusercontent.com/tohiro15/github-stats-transparent/output/generated/overview.svg)
-![Top Langs](https://raw.githubusercontent.com/tohiro15/github-stats-transparent/output/generated/languages.svg)
-
 </div>
 <div align="center">
   
