@@ -1,16 +1,18 @@
-## Hi there 👋
+<h3 align="center"> 📊 Stats Github: </h3>
 
-<!--
-**tohiro15/tohiro15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![Overview of statistics](https://raw.githubusercontent.com/tohiro15/github-stats-transparent/output/generated/overview.svg)
+![Top Langs](https://raw.githubusercontent.com/tohiro15/github-stats-transparent/output/generated/languages.svg)
 
-Here are some ideas to get you started:
+</div>
+<div align="center">
+  
+[![Статистика Anurag на GitHub](https://github-readme-stats.vercel.app/api?username=tohiro15&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div align="center">
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@tohiro15&show_icons=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
